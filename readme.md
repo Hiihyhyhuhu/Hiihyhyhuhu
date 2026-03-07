@@ -18,13 +18,6 @@ AI Engineer • Computer Vision • Robotics
 <table>
 <tr>
 
-<!-- Avatar Column -->
-<td width="220" align="center">
-
-<img src="https://avatars.githubusercontent.com/Hiihyhyhuhu" width="180">
-
-</td>
-
 <!-- Profile Card Column -->
 <td>
 
@@ -58,7 +51,7 @@ AI Engineer • Computer Vision • Robotics
 <br><br>
 
 <a href="https://www.linkedin.com/in/tranchanhhy/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="32">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32">
 </a>
 <br><br>
 
@@ -88,22 +81,4 @@ AI Engineer • Computer Vision • Robotics
 | Computer Vision | OpenCV • Deep Learning |
 | Robotics | UAV Systems • ArduPilot |
 | Design | Figma • AutoCAD |
-| Web | HTML • CSS |
-
----
-
-# 📈 Development Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiihyhyhuhu&theme=github-compact&hide_border=true">
-
-</div>
-
----
-
-### ⚡ AI Philosophy
-
-*"Building intelligent systems that connect artificial intelligence with real-world impact."*
-
-</div>
+| Web | HTML • CSS • JS • React |
