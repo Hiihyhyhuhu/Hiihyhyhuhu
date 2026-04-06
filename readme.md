@@ -35,20 +35,25 @@ I am an **AI Engineer** pursuing a dual-degree program at **Ho Chi Minh City Uni
 With a background in both software engineering and robotics, I bridge the gap between high-level algorithmic research and low-level hardware implementation. I am particularly passionate about autonomous navigation and real-time object detection in dynamic environments.
 
 ---
-### 🌟 Featured Projects & Statistics
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-kappa-peach-95.vercel.app/api?username=hiihyhyhuhu&show_icons=true&count_private=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-kappa-peach-95.vercel.app/api/top-langs/?username=hiihyhyhuhu&layout=compact&count_private=true&theme=radical&hide=jupyter%20notebook" width="37%" />
+</p>
+
+---
+
+### 🌟 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Hiihyhyhuhu/HCM-EngineeringFair-2024">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hiihyhyhuhu&repo=HCM-EngineeringFair-2024&theme=radical" width="48%" alt="HCM Engineering Fair 2024" />
+    <img src="https://github-readme-stats-kappa-peach-95.vercel.app/api/pin/?username=Hiihyhyhuhu&repo=HCM-EngineeringFair-2024&theme=radical" width="48%" alt="HCM Engineering Fair 2024" />
   </a>
   <a href="https://github.com/Hiihyhyhuhu/HCMUT-CSEHackathon-2025">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hiihyhyhuhu&repo=HCMUT-CSEHackathon-2025&theme=radical" width="48%" alt="HCMUT CSE Hackathon 2025" />
+    <img src="https://github-readme-stats-kappa-peach-95.vercel.app/api/pin/?username=Hiihyhyhuhu&repo=HCMUT-CSEHackathon-2025&theme=radical" width="48%" alt="HCMUT CSE Hackathon 2025" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hiihyhyhuhu&show_icons=true&count_private=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hiihyhyhuhu&layout=compact&count_private=true&theme=radical&hide=jupyter%20notebook" width="48%" />
 </p>
 
 ---
