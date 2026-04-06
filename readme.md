@@ -1,84 +1,64 @@
 <div align="center">
 <pre>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=5&color=58A6FF&center=true&width=550&height=35&lines=Passionate+•+Curious+•+Innovative;Friendly+•+Cutie+•+Cheerful" alt="Typing SVG" />
  ██████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗    ██╗  ██╗██╗   ██╗
 ██╔════╝██║  ██║██╔══██╗████╗  ██║██║  ██║    ██║  ██║╚██╗ ██╔╝
 ██║     ███████║███████║██╔██╗ ██║███████║    ███████║ ╚████╔╝ 
 ██║     ██╔══██║██╔══██║██║╚██╗██║██╔══██║    ██╔══██║  ╚██╔╝  
 ╚██████╗██║  ██║██║  ██║██║ ╚████║██║  ██║    ██║  ██║   ██║   
  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚═╝  ╚═╝   ╚═╝   
-AI Engineer • Computer Vision • Robotics
 </pre>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Engineer;Computer+Vision+Developer;Robotics+%26+Drone+Technology;Machine+Learning+Researcher">
+<h3>Bachelor of Artificial Intelligence | @ HCMUT 🤝 @ UTS</h3>
+<p>
+
+<a href="https://www.linkedin.com/in/tranchanhhy/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.facebook.com/Tran.C.Hy.18/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+
+<a href="https://www.instagram.com/hiihyhyhuhu/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+</p>
 </div>
 
 ---
 
-# 👤 Personal Information
+### **👨‍💻 Professional Summary**
 
-<table>
-<tr>
+I am an **AI Engineer** pursuing a dual-degree program at **Ho Chi Minh City University of Technology (HCMUT)** and the **University of Technology Sydney (UTS)**. My work focuses on the intersection of **Computer Vision** and **UAV Systems**, where I specialize in deploying intelligent models onto edge hardware.
 
-<!-- Profile Card Column -->
-<td>
-
-<pre>
-╭──────── AI ENGINEER PROFILE ────────╮
-│ Name       : Chanh Hy Tran          │
-│ Role       : AI Engineer            │
-│ Location   : Ho Chi Minh City       │
-│ University : HCMUT                  │
-│ Program    : AI Bachelor            │
-│ Partner    : UTS                    │
-│ Language   : IELTS 7.0              │
-╰─────────────────────────────────────╯
-</pre>
-
-</td>
-
-<!-- Social Network Column -->
-<td width="120" align="center">
-
-<b>Contact</b><br>
-
-<a href="https://www.facebook.com/Tran.C.Hy.18/">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" width="32">
-</a>
-<br><br>
-
-<a href="https://www.instagram.com/hiihyhyhuhu/">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="32">
-</a>
-<br><br>
-
-<a href="https://www.linkedin.com/in/tranchanhhy/">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32">
-</a>
-<br><br>
-
-</td>
-
-</tr>
-</table>
-
-# 🧠 Skill Matrix
-
-| Domain | Level |
-|------|------|
-| Machine Learning | █████████░ 90% |
-| Computer Vision | █████████░ 90% |
-| Robotics / UAV | ████████░░ 80% |
-| Data Science | ████████░░ 80% |
-| Web Development | ██████░░░░ 60% |
+With a background in both software engineering and robotics, I bridge the gap between high-level algorithmic research and low-level hardware implementation. I am particularly passionate about autonomous navigation and real-time object detection in dynamic environments.
 
 ---
 
-# 🧰 Technology Stack
+### **📊 Contribution Activity**
 
-| Category | Tools |
-|--------|------|
-| AI Frameworks | PyTorch • Keras • Scikit-learn |
-| Programming | Python • Java • Arduino |
-| Computer Vision | OpenCV • Deep Learning |
-| Robotics | UAV Systems • ArduPilot |
-| Design | Figma • AutoCAD |
-| Web | HTML • CSS • JS • React |
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hiihyhyhuhu&show_icons=true&count_private=true&theme=radical" width="40%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hiihyhyhuhu&layout=compact&count_private=true&theme=radical&hide=jupyter%20notebook" width="40%" />
+</p>
+
+---
+
+### **🧠 Skill Matrix & Proficiency**
+
+| Domain | Level | Expertise |
+| :---- | :---- | :---- |
+| **Machine Learning** | █████████░ | Numpy, Scikit-learn, Keras, Tensorflow, Rapid |
+| **Computer Vision** | █████████░ | OpenCV, PyTorch, HuggingFace, Roboflow |
+| **Data Science** | ████████░░ | Pandas, Seaborn, Matplotlib, Plotly Express |
+| **Web Development** | ███████░░░ | Typescript, NodeJs, Vite, Mongo Atlat, HTML/CSS |
+| **Robotics / UAV** | ██████░░░░ | ArduPilot, Arduino |
+
+---
+
+### **🎯 Mission & Vision**
+
+My current research and development interests include:
+* **Edge AI Deployment:** Optimizing Vision Transformers for real-time UAV flight.
+* **Global Collaboration:** Leveraging my IELTS 7.0 proficiency to work within international engineering teams between Vietnam and Australia.
