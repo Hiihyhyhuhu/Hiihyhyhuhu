@@ -39,8 +39,8 @@ With a background in both software engineering and robotics, I bridge the gap be
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-kappa-peach-95.vercel.app/api?username=hiihyhyhuhu&show_icons=true&count_private=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats-kappa-peach-95.vercel.app/api/top-langs/?username=hiihyhyhuhu&layout=compact&count_private=true&theme=radical&hide=jupyter%20notebook" width="37%" />
+  <img src="https://github-readme-stats-kappa-peach-95.vercel.app/api?username=hiihyhyhuhu&show_icons=true&count_private=true&theme=radical" width="52%" />
+  <img src="https://github-readme-stats-kappa-peach-95.vercel.app/api/top-langs/?username=hiihyhyhuhu&layout=compact&count_private=true&theme=radical&hide=jupyter%20notebook" width="40%" />
 </p>
 
 ---
