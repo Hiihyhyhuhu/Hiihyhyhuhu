@@ -62,11 +62,11 @@ With a background in both software engineering and robotics, I bridge the gap be
 
 | Domain | Level | Expertise |
 | :---- | :---- | :---- |
-| **Machine Learning** | █████████░ | Numpy, Scikit-learn, Keras, Tensorflow, Rapid |
+| **Machine Learning** | █████████░ | Numpy, Scikit-learn, Keras, Tensorflow, Rapid, ONNX, OpenVino |
 | **Computer Vision** | █████████░ | OpenCV, PyTorch, HuggingFace, Roboflow |
-| **Data Science** | ████████░░ | Pandas, Seaborn, Matplotlib, Plotly Express |
+| **Data Science** | ████████░░ | Pandas, Seaborn, Matplotlib, Plotly Express, SPSS |
 | **Web Development** | ███████░░░ | Typescript, NodeJs, HTML/CSS, Mongo Atlat, Vite, ngrok, Vercel |
-| **Robotics / UAV** | ██████░░░░ | ArduPilot, Arduino |
+| **Robotics / UAV** | ██████░░░░ | ArduPilot, Arduino, AutoCAD |
 
 ---
 
